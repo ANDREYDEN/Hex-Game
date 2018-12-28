@@ -9,4 +9,6 @@ Make an unbroken chain of hexagons connecting the sides of your colour to win.
 ## Setup
 In order for the game to work correctly Python 3 or higher is needed. 
 
-Needed libraries: pygame
+Required libraries: pygame
+
+To start the game simply launch the HexMain.py file.
